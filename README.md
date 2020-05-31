@@ -51,6 +51,7 @@ It is probability in percentage(%), that how much likely a person will follow an
 As the graph is a linked-list of a linked-lists, so, A node is representing a person in the network. If you want to:
 
 **Sign-up in the network**
+
 ![insert](https://user-images.githubusercontent.com/49767636/83348191-a6839900-a343-11ea-9400-038b3fba6532.jpg)
 
 
@@ -58,6 +59,7 @@ As the graph is a linked-list of a linked-lists, so, A node is representing a pe
 ![delete](https://user-images.githubusercontent.com/49767636/83348171-750acd80-a343-11ea-852d-cc99cbc94ac6.jpg)
 
 **Find a friend in network**
+
 ![found](https://user-images.githubusercontent.com/49767636/83348147-412fa800-a343-11ea-8fca-285d8d00d257.jpg)
 
 #### Edge Operations

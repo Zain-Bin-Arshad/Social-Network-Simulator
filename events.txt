@@ -1,0 +1,126 @@
+P:Mr. PotatoHead:Ages three and up! It's on my box! Ages three and up! I'm not supposed to be babysitting Princess Drool!
+A:Sergeant
+A:Soldier1
+A:Soldier2
+A:Soldier3
+A:Soldier4
+A:Soldier5
+A:Soldier6
+F:Andy:Sergeant
+F:Woody:Sergeant
+F:Sergeant:Soldier1
+F:Sergeant:Soldier2
+F:Sergeant:Soldier3
+F:Sergeant:Soldier4
+F:Sergeant:Soldier5
+F:Sergeant:Soldier6
+A:Buzz Lightyear
+F:Buzz Lightyear:Rex
+F:Buzz Lightyear:Bo Peep
+F:Buzz Lightyear:Lenny
+F:Buzz Lightyear:Slinky Dog
+P:Buzz Lightyear:Greetings, I am Buzz Lightyear. I come in peace.:2
+P:Buzz Lightyear:To infininty and beyond!
+P:Bo Peep:I've got my moving buddy
+P:Woody:And another thing, *stop* with this *spaceman* thing! It's getting on my nerves.
+P:Buzz Lightyear:How dare you open a spaceman's helmet on an uncharted planet! My eyeballs could've been sucked from their sockets!
+P:Woody:BUZZ, LOOK, AN ALIEN!
+P:Buzz Lightyear:You are a sad, strange little man, and you have my pity.
+P:Woody:Oh, yeah? Well, good riddance, ya loony!
+P:Slinky Dog: It's too short. We need more monkeys!
+A:The Claw
+A:Alien1
+A:Alien2
+A:Alien3
+A:Alien4
+A:Alien5
+A:Alien6
+A:Alien7
+A:Alien8
+A:Alien9
+A:Alien10
+F:The Claw:Alien1
+F:The Claw:Alien2
+F:The Claw:Alien3
+F:The Claw:Alien4
+F:The Claw:Alien5
+F:The Claw:Alien6
+F:The Claw:Alien7
+F:The Claw:Alien8
+F:The Claw:Alien9
+F:The Claw:Alien10
+F:Alien1:Alien2
+F:Alien1:Alien3
+F:Alien1:Alien4
+F:Alien1:Alien5
+F:Alien1:Alien6
+F:Alien1:Alien7
+F:Alien1:Alien8
+F:Alien1:Alien9
+F:Alien3:Alien10
+F:Alien3:Alien2
+F:Alien3:Alien1
+F:Alien3:Alien4
+F:Alien3:Alien5
+F:Alien3:Alien6
+F:Alien3:Alien7
+F:Alien3:Alien8
+F:Alien3:Alien9
+F:Alien3:Alien10
+F:Alien8:Alien2
+F:Alien8:Alien3
+F:Alien8:Alien4
+F:Alien8:Alien5
+F:Alien8:Alien6
+F:Alien8:Alien7
+F:Alien8:Alien1
+F:Alien8:Alien9
+F:Alien8:Alien10
+F:Alien6:Alien2
+F:Alien6:Alien3
+F:Alien6:Alien4
+F:Alien6:Alien5
+F:Alien6:Alien1
+F:Alien6:Alien7
+F:Alien6:Alien8
+F:Alien6:Alien9
+F:Alien6:Alien10
+F:Buzz Lightyear:Alien1
+P:Buzz Lightyear:This is an intergalactic emergency. I need to commandeer your vessel to Sector 12. Who's in charge here?.
+P:Alien1:The Claw!:3
+P:Alien2:The Claw!:3
+P:Alien3:The Claw!:3
+P:Alien4:The Claw!:3
+P:Alien5:The Claw!:3
+P:Alien6:The Claw!:3
+P:Alien7:The Claw!:3
+P:Alien8:The Claw!:3
+P:Alien9:The Claw!:3
+P:Alien10:The Claw!:3
+P:Alien1:The claw is our master.
+P:Alien2:The claw chooses who will go and who will stay.
+A:Sid
+A:Scud
+A:Hannah
+A:Janey
+A:Mrs Nesbitt
+A:Sally
+A:Sid's Mom
+F:Sid's Mom:Sid
+F:Sid's Mom:Hannah
+F:Sid:Scud
+F:Hannah:Janey
+F:Hannah:Sally
+F:Hannah:Mrs Nesbitt
+P:Buzz Lightyear:You see the hat? I am Mrs. Nes-bitt!
+P:Sid:I'll have to perform one of my... operations!
+P:Buzz Lightyear: I don't believe that man's ever been to medical school!
+P:Hannah:Mom! Mom, have you seen my Sally doll? ... Never mind.
+P:Woody:Reach for the sky!:2
+P:Woody:This town ain't big enough for the two of us!
+P:Sid:The Toys! The Toys are alive!:3
+R:Mrs Nesbitt
+U:Sergeant:Woody
+P:Woody:Hey, Buzz! You're flying!
+P:Buzz:This isn't flying, this is falling with style!
+P:Woody:To infinity and beyond!:3

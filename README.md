@@ -87,6 +87,7 @@ This option will display various stats like:
 - Number of posts made by a person
 - Post ordered by their popularity
 - Number of likes, friends, friends of etc
+
 ![stata](https://user-images.githubusercontent.com/49767636/83348452-3a566480-a346-11ea-825d-ad2a5e129635.jpg)
 
 #### Update
